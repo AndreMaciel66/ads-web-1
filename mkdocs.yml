@@ -1,0 +1,7 @@
+site_name: Desenvolvimento Web 1
+theme:
+    name: material
+
+nav:
+    - home: index.md
+    - instalação: install.md
